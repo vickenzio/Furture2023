@@ -9,5 +9,7 @@ VS Code - XAMPP
 
 1. Save semua file ke dalam sebuah folder yang sama
 2. Save file tersebut ke dalam ./xampp/htdocs
-3. Run Apache dan MySql milik XAMPP
-4. Run source code
+3. Run Apache dan MySQL milik XAMPP
+4. Click Admin pada MySQL
+5. Import file SQL
+6. Run source code
