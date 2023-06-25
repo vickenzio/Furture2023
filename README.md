@@ -1,6 +1,6 @@
 # Furture2023
 
-2501960682 | Vickenzio Leeputra Dharma \n
+2501960682 | Vickenzio Leeputra Dharma
 2502008611 | Jason Ivan Walean
 2540121852 | Nathanael Kenneth Nurtanio
 2540122855 | Fakhru Sidik Nugroho
