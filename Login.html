@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,15 +26,16 @@
   
 
     <div class = "signup">
-        <form action="#">
+        <form method="post" action="Login.php">
             <label for="email">Email</label><br><br>
             <input type="email" id="email" name="email" placeholder="Masukkan email"><br><br>
-            <label for="password" >Password</label><br><br>
+            <label for="password">Password</label><br><br>
             <input type="password" id="password" name="password" placeholder="Masukkan kata sandi"><br><br>
+            <a href="./Home.html">
+            <input type=”Submit” class="profiletext" id="profile3text" value="Submit">Masuk</input>
+            </a>
         </form>
-        <a href="./Home.html">
-            <div class="profiletext" id="profile3text">Masuk</div>
-        </a>
+        
         <a href="./Registrasi.html">
             <div class="profiletext" id="profile2text">Daftar Sekarang</div>
         </a>
